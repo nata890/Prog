@@ -7,6 +7,7 @@ public class Main2 {
 
     public static void main(String[] args) {
 
+        /*
         String windowsPath = "C:\\Users\\natal\\OneDrive\\Documentos\\Prueba.txt";
 
         Data data = null;
@@ -35,6 +36,8 @@ public class Main2 {
             String newText = data.toText();
             JOptionPane.showMessageDialog(null, newText);
         }
+
+         */
 
 
 
